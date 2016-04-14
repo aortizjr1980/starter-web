@@ -4,10 +4,12 @@
 # TEAM
 
     Antonio Ortiz QA antonio.ortiz@sap.com
+	
+	Tim Tom
 
 # THANKS
 
-    <name>
+    Nope
 
 # TECHNOLOGY COLOPHON
 
