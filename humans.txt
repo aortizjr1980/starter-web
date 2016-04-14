@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Antonio Ortiz QA antonio.ortiz@sap.com
 
 # THANKS
 
